@@ -1,0 +1,92 @@
+ {
+  "users": [
+    {
+      "id": "1",
+      "name": "Mikel Davis",
+      "email": "Cathryn53@yahoo.com",
+      "username": "Darby_Mitchell97",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/designervzm/128.jpg",
+      "short_description": "Accusamus vel earum ut ducimus nisi."
+    },
+    {
+      "id": "2",
+      "name": "Jeanette MacGyver",
+      "email": "Brown.Treutel@yahoo.com",
+      "username": "Ettie40",
+      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/stan/128.jpg",
+      "short_description": "Deserunt est repellat perspiciatis omnis animi hic blanditiis."
+    }
+  ],
+  "company": [
+    {
+      "name": "Kunde, Lueilwitz and Okuneva",
+      "image": "http://lorempixel.com/640/480/business",
+      "country": "Saint Barthelemy",
+      "short_description": "Officia in est sunt ratione libero amet qui sed.",
+      "user_ID" : "1"
+    },
+    {
+      "name": "Hilpert - Jerde",
+      "image": "http://lorempixel.com/640/480/business",
+      "country": "Fiji",
+      "short_description": "Eius vel eveniet similique.",
+      "user_ID": "2"
+    },
+    {
+      "name": "Heidenreich - Hintz",
+      "image": "http://lorempixel.com/640/480/business",
+      "country": "Japan",
+      "short_description": "Occaecati omnis amet.",
+      "user_ID" : "1"
+    },
+    {
+      "name": "Morar - McKenzie",
+      "image": "http://lorempixel.com/640/480/business",
+      "country": "Micronesia",
+      "short_description": "Sapiente qui ut nostrum.",
+      "user_ID": "2"
+    },
+    {
+      "name": "Baumbach, Aufderhar and Schimmel",
+      "image": "http://lorempixel.com/640/480/business",
+      "country": "Holy See (Vatican City State)",
+      "short_description": "Molestiae nemo nisi id vel molestias quia.",
+      "user_ID" : "1"
+    },
+    {
+      "name": "Treutel and Sons",
+      "image": "http://lorempixel.com/640/480/business",
+      "country": "Brunei Darussalam",
+      "short_description": "Maiores ex perspiciatis ea.",
+      "user_ID": "2"
+    },
+    {
+      "name": "Lehner, DuBuque and Block",
+      "image": "http://lorempixel.com/640/480/business",
+      "country": "Moldova",
+      "short_description": "Alias illum aspernatur voluptate sed nisi omnis id.",
+      "user_ID" : "1"
+    },
+    {
+      "name": "Cummings, Pfeffer and Stiedemann",
+      "image": "http://lorempixel.com/640/480/business",
+      "country": "Senegal",
+      "short_description": "Blanditiis numquam omnis ipsa accusantium.",
+      "user_ID": "2"
+    },
+    {
+      "name": "McGlynn and Sons",
+      "image": "http://lorempixel.com/640/480/business",
+      "country": "Congo",
+      "short_description": "Dignissimos suscipit libero qui.",
+      "user_ID" : "1"
+    },
+    {
+      "name": "Bailey LLC",
+      "image": "http://lorempixel.com/640/480/business",
+      "country": "Ghana",
+      "short_description": "Doloribus reprehenderit assumenda debitis ut aut quos amet ut dolore.",
+      "user_ID": "2"
+    }
+  ]
+}
