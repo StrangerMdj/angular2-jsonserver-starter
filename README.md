@@ -22,6 +22,7 @@ open db folder
 
  ```
  > For generate a json file you can see json-server documentary
+ 
 ## Install npm packages
 
 > See npm and nvm version notes above
