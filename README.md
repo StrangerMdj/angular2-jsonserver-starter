@@ -1,4 +1,4 @@
-# Angular QuickStart Source
+# Angular Json-Server Starter
 [![Build Status][travis-badge]][travis-badge-url]
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
@@ -40,24 +40,13 @@ rm -rf .git  # non-Windows
 rd .git /S/Q # windows
 ```
 
-### Create a new git repo
-You could [start writing code](#start-development) now and throw it all away when you're done.
-If you'd rather preserve your work under source control, consider taking the following steps.
+### run json-server
+open db folder
+ ```bash
+     json-server -p $PORT --watch
 
-Initialize this project as a *local git repo* and make the first commit:
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-```
-
-Create a *remote repository* for this project on the service of your choice.
-
-Grab its address (e.g. *`https://github.com/<my-org>/my-proj.git`*) and push the *local repo* to the *remote*.
-```bash
-git remote add origin <repo-address>
-git push -u origin master
-```
+ ```
+ > For generate a json file you can see json-server documentary
 ## Install npm packages
 
 > See npm and nvm version notes above
@@ -141,5 +130,5 @@ which is easier to read; this file is excluded from source control.
 
 Shut it down manually with `Ctrl-C`.
 
-[travis-badge]: https://travis-ci.org/angular/quickstart.svg?branch=master
-[travis-badge-url]: https://travis-ci.org/angular/quickstart
+[travis-badge]
+[travis-badge-url]
